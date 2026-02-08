@@ -1,4 +1,4 @@
-# MoreTimeOffWork.ai - Styling Reference
+# MoreTimeOff.work - Styling Reference
 
 Quick reference for reusing this design system across the brand.
 
@@ -168,6 +168,6 @@ All pages share: header (fixed, `5rem` height) + footer (4-column grid) + grain 
 
 ## Contact Details
 
-- **Display email:** jack@moretimeoffwork.ai
-- **mailto:** jack@moretimeoffwork.ai
+- **Display email:** jack@moretimeoff.work
+- **mailto:** jack@moretimeoff.work
 - Form currently uses mailto: link - replace with backend when on 123-reg

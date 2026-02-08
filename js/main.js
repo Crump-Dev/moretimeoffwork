@@ -1,4 +1,4 @@
-/* MoreTimeOffWork.ai - Main JS */
+/* MoreTimeOff.work - Main JS */
 
 // ── Mobile Nav ──
 document.addEventListener('DOMContentLoaded', () => {
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const message = form.querySelector('[name="message"]').value;
 
       const body = `Name: ${name}\nEmail: ${email}\n\n${message}`;
-      const mailto = `mailto:hello@moretimeoffwork.ai?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      const mailto = `mailto:hello@moretimeoff.work?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
       window.location.href = mailto;
 
